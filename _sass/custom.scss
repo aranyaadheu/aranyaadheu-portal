@@ -1,0 +1,23 @@
+.hero {
+    text-align: center;
+    padding: 100px 20px;
+    background: url('https://github.com/aranyaadheu') no-repeat center;
+    background-size: cover;
+    color: white;
+}
+
+.hero h1 {
+    font-size: 3rem;
+    font-weight: bold;
+}
+
+.btn {
+    display: inline-block;
+    margin-top: 10px;
+    padding: 10px 20px;
+    background: #ff5733;
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    border-radius: 5px;
+}
